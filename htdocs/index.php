@@ -2,4 +2,7 @@
 <?php phpinfo(); ?>
 <html>
 
+    <head>
+        
+    </head>
 </html>
